@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hey, I'm Indumati 👋<br><br>🎓 Computer Science Engineering Student  <br>💻 Python | Web Development  <br>🤖 Exploring AI & Cybersecurity  <br>🚀 Building projects and learning by doing  <br>🌱 Always curious to learn something new  <br>🎯 Aspiring Software Developer<br><br>> Learn. Build. Break. Fix. Repeat. 🚀
+## 💫 About Me:
+## #Hey, I'm Indumati 👋<br><br>🎓 Computer Science Engineering Student  <br>💻 Python | Web Development  <br>🤖 Exploring AI & Cybersecurity  <br>🚀 Building projects and learning by doing  <br>🌱 Always curious to learn something new  <br>🎯 Aspiring Software Developer<br><br>> Learn. Build. Break. Fix. Repeat. 🚀
 
 
 ## 🌐 Socials:
